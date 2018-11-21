@@ -6,3 +6,22 @@ Cartoon face generation
 * tqdm
 * imageio
 
+
+To install dependences, run
+```python
+pip install -r requirements.txt 
+```
+# Dataset
+Dataset can be downloaded from ![here](https://pan.baidu.com/s/1eSifHcA)
+
+
+# Training
+```python
+python main.py 
+```
+
+# Results
+
+
+
+
