@@ -23,6 +23,9 @@ Dataset can be downloaded from ![here](https://pan.baidu.com/s/1eSifHcA)
 python main.py 
 ```
 # Results
+<p align="center"> 
+<img src="https://github.com/imbibekk/DC_GAN/blob/master/plots/result.gif">
+</p>
 
 # Loss
 <p align="center"> 
