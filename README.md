@@ -1,5 +1,6 @@
 # Image generation using DC-GAN
-Cartoon face generation
+![150](https://user-images.githubusercontent.com/43647803/48879914-62abfb80-ee51-11e8-9963-b85ee0d6e940.png)
+
 
 # Dependencies
 * Pytorch   
