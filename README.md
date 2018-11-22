@@ -8,6 +8,7 @@
 * Pytorch   
 * tqdm
 * imageio
+* Python 3x
 
 
 To install dependences, run
