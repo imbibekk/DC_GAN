@@ -23,7 +23,10 @@ Dataset can be downloaded from ![here](https://pan.baidu.com/s/1eSifHcA)
 python main.py 
 ```
 
-# Results
+# Loss
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/43647803/48880234-d4d11000-ee52-11e8-970f-273d6f5038f2.gif">
+</p>
 
 
 
