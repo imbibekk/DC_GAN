@@ -1,5 +1,7 @@
 # Image generation using DC-GAN
-![150](https://user-images.githubusercontent.com/43647803/48879914-62abfb80-ee51-11e8-9963-b85ee0d6e940.png)
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/43647803/48879914-62abfb80-ee51-11e8-9963-b85ee0d6e940.png">
+</p>
 
 
 # Dependencies
