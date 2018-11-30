@@ -1,6 +1,6 @@
 # Image generation using DC-GAN
 <p align="center"> 
-<img src="https://user-images.githubusercontent.com/43647803/48879914-62abfb80-ee51-11e8-9963-b85ee0d6e940.png">
+<img src="https://user-images.githubusercontent.com/43647803/49303103-373da680-f50c-11e8-8f48-a1261134a6c9.png">
 </p>
 
 
