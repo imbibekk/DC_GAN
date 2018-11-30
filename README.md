@@ -16,8 +16,7 @@ To install dependences, run
 pip install -r requirements.txt 
 ```
 # Dataset
-Dataset can be downloaded from ![here](https://pan.baidu.com/s/1eSifHcA)
-
+Publicly available dataset of Anime faces was used.
 
 # Training
 ```python
